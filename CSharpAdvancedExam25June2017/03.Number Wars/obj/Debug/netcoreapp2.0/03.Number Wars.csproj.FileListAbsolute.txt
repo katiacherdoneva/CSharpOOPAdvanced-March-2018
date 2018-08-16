@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\bin\Debug\netcoreapp2.0\03.Number Wars.deps.json
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\bin\Debug\netcoreapp2.0\03.Number Wars.runtimeconfig.json
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\bin\Debug\netcoreapp2.0\03.Number Wars.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\bin\Debug\netcoreapp2.0\03.Number Wars.dll
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\bin\Debug\netcoreapp2.0\03.Number Wars.pdb
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\obj\Debug\netcoreapp2.0\03.Number Wars.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\obj\Debug\netcoreapp2.0\03.Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\obj\Debug\netcoreapp2.0\03.Number Wars.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\obj\Debug\netcoreapp2.0\03.Number Wars.AssemblyInfo.cs
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\obj\Debug\netcoreapp2.0\03.Number Wars.dll
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\03.Number Wars\obj\Debug\netcoreapp2.0\03.Number Wars.pdb

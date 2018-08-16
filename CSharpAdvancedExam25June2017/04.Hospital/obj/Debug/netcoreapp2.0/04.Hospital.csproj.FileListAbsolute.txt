@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.deps.json
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.runtimeconfig.json
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.dll
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.pdb
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.AssemblyInfo.cs
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.dll
+C:\Users\Катя\source\repos\CSharpAdvancedExam25June2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.pdb
