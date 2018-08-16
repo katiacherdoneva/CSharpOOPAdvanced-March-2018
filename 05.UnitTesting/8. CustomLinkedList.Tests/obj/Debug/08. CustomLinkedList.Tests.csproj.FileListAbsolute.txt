@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\_8.CustomLinkedList.Tests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\_8.CustomLinkedList.Tests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\_8.Custom_Linked_List.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\_8.Custom_Linked_List.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\_8.Custom_Linked_List.exe.config
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\obj\Debug\08. CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\obj\Debug\08. CustomLinkedList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\obj\Debug\_8.CustomLinkedList.Tests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\8. CustomLinkedList.Tests\obj\Debug\_8.CustomLinkedList.Tests.pdb

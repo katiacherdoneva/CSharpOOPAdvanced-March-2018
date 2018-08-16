@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\bin\Debug\netcoreapp2.0\07.HackMath.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\bin\Debug\netcoreapp2.0\07.HackMath.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\bin\Debug\netcoreapp2.0\07.HackMath.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\bin\Debug\netcoreapp2.0\07.HackMath.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\bin\Debug\netcoreapp2.0\07.HackMath.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\obj\Debug\netcoreapp2.0\07.HackMath.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\obj\Debug\netcoreapp2.0\07.HackMath.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\obj\Debug\netcoreapp2.0\07.HackMath.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\obj\Debug\netcoreapp2.0\07.HackMath.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\obj\Debug\netcoreapp2.0\07.HackMath.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\07.HackMath\obj\Debug\netcoreapp2.0\07.HackMath.pdb

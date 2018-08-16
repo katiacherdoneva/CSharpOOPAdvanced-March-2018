@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.deps.json
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.json
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.dll
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.pdb
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfo.cs
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.dll
+C:\Users\Катя\source\repos\1.Generic-Ex\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.pdb

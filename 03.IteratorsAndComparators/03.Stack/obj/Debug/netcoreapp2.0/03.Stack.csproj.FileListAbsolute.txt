@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.deps.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.runtimeconfig.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.pdb
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.AssemblyInfo.cs
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.pdb

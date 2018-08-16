@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csprojResolveAssemblyReference.cache

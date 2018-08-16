@@ -1,0 +1,17 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorUnitTests.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorUnitTests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\obj\Debug\netcoreapp2.0\03.IteratorUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\obj\Debug\netcoreapp2.0\03.IteratorUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\obj\Debug\netcoreapp2.0\03.IteratorUnitTests.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\obj\Debug\netcoreapp2.0\03.IteratorUnitTests.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorUnitTests.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorUnitTests.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorUnitTests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\bin\Debug\netcoreapp2.0\03.IteratorTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\obj\Debug\netcoreapp2.0\03.IteratorUnitTests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorUnitTests\obj\Debug\netcoreapp2.0\03.IteratorUnitTests.pdb

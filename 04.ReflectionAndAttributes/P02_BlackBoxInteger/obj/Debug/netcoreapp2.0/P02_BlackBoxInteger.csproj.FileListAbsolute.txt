@@ -1,0 +1,22 @@
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\Катя\Downloads\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+D:\катя\Програмиране\2.C# Fundamentals\03.C# OOP Advanced\04.ReflectionAndAttributes\ReflectionAndAttributesEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

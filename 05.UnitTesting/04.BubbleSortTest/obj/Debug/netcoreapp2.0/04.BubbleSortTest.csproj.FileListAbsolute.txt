@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\bin\Debug\netcoreapp2.0\04.BubbleSortTest.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\bin\Debug\netcoreapp2.0\04.BubbleSortTest.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\bin\Debug\netcoreapp2.0\04.BubbleSortTest.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\bin\Debug\netcoreapp2.0\04.BubbleSortTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\bin\Debug\netcoreapp2.0\04.BubbleSortTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\obj\Debug\netcoreapp2.0\04.BubbleSortTest.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\obj\Debug\netcoreapp2.0\04.BubbleSortTest.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\obj\Debug\netcoreapp2.0\04.BubbleSortTest.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\obj\Debug\netcoreapp2.0\04.BubbleSortTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\obj\Debug\netcoreapp2.0\04.BubbleSortTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\04.BubbleSortTest\obj\Debug\netcoreapp2.0\04.BubbleSortTest.csprojResolveAssemblyReference.cache

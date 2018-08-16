@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.csprojResolveAssemblyReference.cache

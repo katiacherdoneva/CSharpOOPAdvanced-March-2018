@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp2.0\04.FroggyXX.deps.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp2.0\04.FroggyXX.runtimeconfig.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp2.0\04.FroggyXX.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp2.0\04.FroggyXX.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\bin\Debug\netcoreapp2.0\04.FroggyXX.pdb
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp2.0\04.FroggyXX.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp2.0\04.FroggyXX.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp2.0\04.FroggyXX.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp2.0\04.FroggyXX.AssemblyInfo.cs
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp2.0\04.FroggyXX.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\04.Froggy\obj\Debug\netcoreapp2.0\04.FroggyXX.pdb

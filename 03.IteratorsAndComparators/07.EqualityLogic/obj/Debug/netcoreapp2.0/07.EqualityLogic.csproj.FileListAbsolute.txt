@@ -1,0 +1,10 @@
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.deps.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.runtimeconfig.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.pdb
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.AssemblyInfo.cs
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.pdb

@@ -1,0 +1,7 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\bin\Debug\_9.DateTime.exe.config
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\bin\Debug\_9.DateTime.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\bin\Debug\_9.DateTime.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\obj\Debug\09. DateTime.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\obj\Debug\09. DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\obj\Debug\_9.DateTime.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\9. DateTime\obj\Debug\_9.DateTime.pdb

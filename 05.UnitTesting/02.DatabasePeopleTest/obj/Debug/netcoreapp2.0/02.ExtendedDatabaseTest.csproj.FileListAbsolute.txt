@@ -1,0 +1,17 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\obj\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\obj\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\obj\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\obj\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\obj\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\02.DatabasePeopleTest\obj\Debug\netcoreapp2.0\02.ExtendedDatabaseTest.pdb

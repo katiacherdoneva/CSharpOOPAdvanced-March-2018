@@ -1,0 +1,7 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\bin\Debug\_8.Custom_Linked_List.exe.config
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\bin\Debug\_8.Custom_Linked_List.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\bin\Debug\_8.Custom_Linked_List.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\obj\Debug\08.CustomLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\obj\Debug\08.CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\obj\Debug\_8.Custom_Linked_List.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\8. Custom Linked List\obj\Debug\_8.Custom_Linked_List.pdb

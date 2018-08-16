@@ -1,0 +1,11 @@
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.csprojResolveAssemblyReference.cache
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.csproj.CoreCompileInputs.cache
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.AssemblyInfoInputs.cache
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.AssemblyInfo.cs
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.deps.json
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.runtimeconfig.json
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.runtimeconfig.dev.json
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.dll
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.pdb
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.dll
+c:\users\катя\source\repos\CommunicationAndEvents\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.pdb

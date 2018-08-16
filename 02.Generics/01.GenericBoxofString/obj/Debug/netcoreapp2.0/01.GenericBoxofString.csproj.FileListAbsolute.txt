@@ -1,0 +1,11 @@
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\bin\Debug\netcoreapp2.0\01.GenericBoxofString.deps.json
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\bin\Debug\netcoreapp2.0\01.GenericBoxofString.runtimeconfig.json
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\bin\Debug\netcoreapp2.0\01.GenericBoxofString.runtimeconfig.dev.json
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\bin\Debug\netcoreapp2.0\01.GenericBoxofString.dll
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\bin\Debug\netcoreapp2.0\01.GenericBoxofString.pdb
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\obj\Debug\netcoreapp2.0\01.GenericBoxofString.csprojResolveAssemblyReference.cache
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\obj\Debug\netcoreapp2.0\01.GenericBoxofString.csproj.CoreCompileInputs.cache
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\obj\Debug\netcoreapp2.0\01.GenericBoxofString.AssemblyInfoInputs.cache
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\obj\Debug\netcoreapp2.0\01.GenericBoxofString.AssemblyInfo.cs
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\obj\Debug\netcoreapp2.0\01.GenericBoxofString.dll
+c:\users\катя\source\repos\1.Generic-Ex\01.GenericBoxofString\obj\Debug\netcoreapp2.0\01.GenericBoxofString.pdb

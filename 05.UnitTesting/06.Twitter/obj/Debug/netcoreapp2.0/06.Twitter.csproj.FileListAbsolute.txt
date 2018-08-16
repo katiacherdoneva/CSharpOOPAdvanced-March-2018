@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.pdb

@@ -1,0 +1,11 @@
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.deps.json
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.runtimeconfig.json
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.runtimeconfig.dev.json
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.dll
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.pdb
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.csprojResolveAssemblyReference.cache
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.csproj.CoreCompileInputs.cache
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.AssemblyInfoInputs.cache
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.AssemblyInfo.cs
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.dll
+c:\users\катя\source\repos\CommunicationAndEvents\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.pdb

@@ -1,0 +1,11 @@
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\bin\Debug\netcoreapp2.0\05.GenericCountMethodString.deps.json
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\bin\Debug\netcoreapp2.0\05.GenericCountMethodString.runtimeconfig.json
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\bin\Debug\netcoreapp2.0\05.GenericCountMethodString.runtimeconfig.dev.json
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\bin\Debug\netcoreapp2.0\05.GenericCountMethodString.dll
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\bin\Debug\netcoreapp2.0\05.GenericCountMethodString.pdb
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\obj\Debug\netcoreapp2.0\05.GenericCountMethodString.csprojResolveAssemblyReference.cache
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\obj\Debug\netcoreapp2.0\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\obj\Debug\netcoreapp2.0\05.GenericCountMethodString.AssemblyInfoInputs.cache
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\obj\Debug\netcoreapp2.0\05.GenericCountMethodString.AssemblyInfo.cs
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\obj\Debug\netcoreapp2.0\05.GenericCountMethodString.dll
+c:\users\катя\source\repos\1.Generic-Ex\05.GenericCountMethodString\obj\Debug\netcoreapp2.0\05.GenericCountMethodString.pdb

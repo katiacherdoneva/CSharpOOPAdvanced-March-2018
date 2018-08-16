@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.deps.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.runtimeconfig.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.pdb
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.AssemblyInfo.cs
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.pdb

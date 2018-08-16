@@ -1,0 +1,12 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\_5.IntegrationTests.Tests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\_5.IntegrationTests.Tests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\_5.Integration_Tests.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\_5.Integration_Tests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\_5.Integration_Tests.exe.config
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\obj\Debug\05. IntegrationTests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\obj\Debug\05. IntegrationTests.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\obj\Debug\_5.IntegrationTests.Tests.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\05. IntegrationTests.Tests\obj\Debug\_5.IntegrationTests.Tests.pdb

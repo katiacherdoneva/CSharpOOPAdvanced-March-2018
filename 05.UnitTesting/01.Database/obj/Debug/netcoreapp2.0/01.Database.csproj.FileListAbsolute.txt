@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\obj\Debug\netcoreapp2.0\01.Database.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\obj\Debug\netcoreapp2.0\01.Database.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\obj\Debug\netcoreapp2.0\01.Database.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\obj\Debug\netcoreapp2.0\01.Database.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\bin\Debug\netcoreapp2.0\01.Database.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\bin\Debug\netcoreapp2.0\01.Database.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\bin\Debug\netcoreapp2.0\01.Database.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\bin\Debug\netcoreapp2.0\01.Database.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\bin\Debug\netcoreapp2.0\01.Database.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\obj\Debug\netcoreapp2.0\01.Database.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.Database\obj\Debug\netcoreapp2.0\01.Database.pdb

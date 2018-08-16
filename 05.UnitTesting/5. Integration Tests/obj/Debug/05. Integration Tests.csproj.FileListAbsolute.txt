@@ -1,0 +1,6 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\5. Integration Tests\bin\Debug\_5.Integration_Tests.exe.config
+C:\Users\Катя\source\repos\05.UNITTESTING\5. Integration Tests\bin\Debug\_5.Integration_Tests.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\5. Integration Tests\bin\Debug\_5.Integration_Tests.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\5. Integration Tests\obj\Debug\05. Integration Tests.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\5. Integration Tests\obj\Debug\_5.Integration_Tests.exe
+C:\Users\Катя\source\repos\05.UNITTESTING\5. Integration Tests\obj\Debug\_5.Integration_Tests.pdb

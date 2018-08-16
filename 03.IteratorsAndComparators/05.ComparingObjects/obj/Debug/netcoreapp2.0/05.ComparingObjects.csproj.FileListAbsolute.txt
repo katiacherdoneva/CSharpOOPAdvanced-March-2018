@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.deps.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.runtimeconfig.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.pdb
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.dll
+C:\Users\Катя\source\repos\03.IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.pdb

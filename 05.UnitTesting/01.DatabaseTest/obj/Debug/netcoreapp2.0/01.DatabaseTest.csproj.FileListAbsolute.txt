@@ -1,0 +1,17 @@
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.Database.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\obj\Debug\netcoreapp2.0\01.DatabaseTest.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\obj\Debug\netcoreapp2.0\01.DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\obj\Debug\netcoreapp2.0\01.DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\obj\Debug\netcoreapp2.0\01.DatabaseTest.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.DatabaseTest.deps.json
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.DatabaseTest.runtimeconfig.json
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.DatabaseTest.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.DatabaseTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.DatabaseTest.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\bin\Debug\netcoreapp2.0\01.Database.pdb
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\obj\Debug\netcoreapp2.0\01.DatabaseTest.dll
+C:\Users\Катя\source\repos\05.UNITTESTING\01.DatabaseTest\obj\Debug\netcoreapp2.0\01.DatabaseTest.pdb
